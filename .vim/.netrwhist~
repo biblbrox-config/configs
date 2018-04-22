@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/lib/systemd/system-shutdown'
+let g:netrw_dirhist_2='/lib/systemd'
+let g:netrw_dirhist_3='/lib/systemd/system-shutdown'
+let g:netrw_dirhist_4='/home/staralex/.config/awesome'
+let g:netrw_dirhist_5='/home/staralex/.config/awesome/themes/powerarrow'
+let g:netrw_dirhist_6='/home/staralex/.local/share/applications'
